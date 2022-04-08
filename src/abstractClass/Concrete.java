@@ -21,5 +21,6 @@ public class Concrete extends Sample {
 	public void test1() {
 		System.out.println("Method from concrete class");
 		System.out.println("this is new added line for git study");
+		System.out.println("adding one more line for github");
 	}
 }
